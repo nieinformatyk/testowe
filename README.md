@@ -1,2 +1,2 @@
-# testowe
-repozytorium tworzone tylko po to by sprawdzić jak to działa
+
+to zawartość pliku opisującego co jest w moim repozytorium, jak z tego korzystać
